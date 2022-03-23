@@ -72,6 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Functions
 
 SignUp page - This app has a signup page created with the help of react-route.
+
 LogIn Page - This app has a login page where registered user can login.
+
 To-Do List - After login you will be redirected to to-do list page where you can create a to-do list.
+
 Logout - On to-do list page there is an option available to logout that will logout your account.

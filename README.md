@@ -1,6 +1,6 @@
 # To-Do List
 
-This project was bootstrapped with [Create React App] and [Redux](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Redux](https://github.com/reduxjs/redux).
 
 ## Available Scripts
 
@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Functions
+
+SignUp page - This app has a signup page created with the help of react-route.
+LogIn Page - This app has a login page where registered user can login.
+To-Do List - After login you will be redirected to to-do list page where you can create a to-do list.
+Logout - On to-do list page there is an option available to logout that will logout your account.

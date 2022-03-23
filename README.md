@@ -78,3 +78,19 @@ LogIn Page - This app has a login page where registered user can login.
 To-Do List - After login you will be redirected to to-do list page where you can create a to-do list.
 
 Logout - On to-do list page there is an option available to logout that will logout your account.
+
+## Screen-Shots
+
+SingnUp Page -
+
+![Screenshot 2022-03-23 203455](https://user-images.githubusercontent.com/71866850/159733824-ac59060d-70d5-4e16-b292-529b8436f020.png)
+
+Login page - 
+
+
+![Screenshot 2022-03-23 203522](https://user-images.githubusercontent.com/71866850/159733966-2e2fd435-75b1-43e2-9868-89348e23e628.png)
+
+To-Do List Page - 
+
+![Screenshot 2022-03-23 203600](https://user-images.githubusercontent.com/71866850/159734049-300af5f9-717e-421a-8fd9-c1114c3ad934.png)
+
